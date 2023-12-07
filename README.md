@@ -1,10 +1,10 @@
 # String Calculator Kata
 The following is a TDD Kata, an exercise in coding, refactoring and test-first, that you should apply daily for at least 15-30 minutes.
 
-## Before you start
-* Try not to read ahead.
-* Do one task at a time. The trick is to learn to work incrementally.
-* Make sure you only test for correct inputs. There is no need to test for invalid inputs for this kata.
+## Compile
+* For use this program you need to have node.js on your computer.
+* Command: `node main.js`
+* Test from 1 to 4 cover the Step 1-3
 
 ## The kata
 
@@ -54,3 +54,4 @@ Numbers bigger than 1000 should be ignored, so adding 2 + 1001  = 2
 **CODE SUBMISSION:** Add the code to your own Github account and send us the link.
 
 Credits to [Roy Osherove](http://osherove.com/tdd-kata-1) for the original idea.
+
